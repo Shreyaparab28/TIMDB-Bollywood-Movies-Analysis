@@ -1,0 +1,264 @@
+crew_id,name,born_year,death_year,profession,known_for
+nm0000636,William Shakespeare,1564,1616,writer|soundtrack|miscellaneous,tt3894536|tt5377528|tt5932378|tt8632012
+nm0002005,Agatha Christie,1890,1976,writer|camera_department,tt3402236|tt0029171|tt0051201|tt1349600
+nm0002042,Charles Dickens,1812,1870,writer|soundtrack|miscellaneous,tt0096061|tt0063385|tt0095776|tt0119223
+nm0002172,Mukul Anand,1951,1997,director|writer|producer,tt0104607|tt0102201|tt0098999|tt0092026
+nm0002411,Mani Kaul,1944,2011,director|writer|actor,tt0207626|tt0066514|tt0070009|tt0102515
+nm0004292,Raj Kapoor,1924,1988,actor|producer|director,tt0066070|tt0152139|tt0058547|tt0084532
+nm0004417,Taraka Rama Rao Nandamuri,1923,1996,actor|director|writer,tt0259576|tt0259579|tt0259261|tt0259242
+nm0004466,E.V.V. Satyanarayana,1956,2011,director|writer|producer,tt1606217|tt1791479|tt1258121|tt0282554
+nm0006005,Salil Choudhury,1923,1995,composer|soundtrack|music_department,tt0056367|tt0045693|tt0066763|tt0050665
+nm0006249,Satyajit Ray,1921,1992,writer|composer|director,tt0048473|tt0048956|tt0057935|tt0060742
+nm0006769,Narasa Raju D.V.,1920,2006,writer|director,tt0333067|tt0266880|tt0352488|tt0247203
+nm0007147,Dev Anand,1923,2011,actor|producer|director,tt0053980|tt0059246|tt0066241|tt0051806
+nm0007173,Rabindranath Tagore,1861,1941,writer|music_department|soundtrack,tt6255836|tt2048726|tt0259458|tt0057935
+nm0007181,Yash Chopra,1932,2012,producer|director|miscellaneous,tt0420332|tt0118983|tt0109555|tt0112870
+nm0007815,Khwaja Ahmad Abbas,1914,1987,writer|director|producer,tt0152400|tt0064915|tt0050820|tt0044360
+nm0011996,Vishwamitter Adil,1919,2002,writer|assistant_director|music_department,tt0048181|tt1843180|tt0061650|tt0306065
+nm0015286,Jan Nissar Akhtar,1914,1976,music_department|soundtrack|writer,tt0286499|tt0154236|tt0139048|tt0133188
+nm0023551,Abrar Alvi,1927,2009,writer|actor|director,tt0359496|tt0056436|tt0071811|tt0056379
+nm0025399,Kamal Amrohi,1918,1993,writer|director|music_department,tt0067546|tt0045666|tt0152148|tt0041619
+nm0025608,Chetan Anand,1921,1997,director|writer|actor,tt0154942|tt0154749|tt0154565|tt0140784
+nm0025629,Vijay Anand,1934,2004,writer|actor|director,tt0059246|tt0154685|tt0155088|tt0154265
+nm0030116,Anjaan,1930,1997,music_department|soundtrack|writer,tt0461936|tt1454012|tt0073104|tt0960144
+nm0038010,Arudra,1925,1998,writer|music_department|soundtrack,tt0155567|tt0262444|tt0061650|tt0246286
+nm0039339,K. Asif,1922,1971,director|producer|writer,tt0091439|tt0133014|tt0054098|tt0037174
+nm0044340,Kaifi Azmi,1919,2002,music_department|soundtrack|writer,tt0058270|tt0064915|tt0073034|tt0414506
+nm0045962,Shakeel Badayuni,1916,1970,music_department|soundtrack|writer,tt0054910|tt0055783|tt0146791|tt0266765
+nm0049244,Anand Bakshi,1930,2002,music_department|soundtrack|writer,tt0112870|tt0213890|tt0152836|tt0073707
+nm0049250,Shanti Prakash Bakshi,1925,1988,director|writer,tt0152509|tt0154999|tt0154206|tt0154913
+nm0049335,K. Balachander,1930,2014,director|writer|producer,tt0155124|tt0155256|tt0082314|tt0154159
+nm0051779,Saradindu Bandopadhyay,1899,1970,writer,tt0061474|tt1073122|tt3447364|tt7605494
+nm0051808,Bibhutibhushan Bandyopadhyay,1894,1950,writer,tt0066758|tt0052572|tt0048473|tt0237254
+nm0051855,Tarashankar Banerjee,1898,1971,writer|music_department|director,tt0051792|tt0048536|tt0055411|tt0052559
+nm0062620,Gulshan Bawra,1937,2009,music_department|actor|soundtrack,tt0362283|tt0286672|tt0146335|tt0070947
+nm0065991,Vishram Bedekar,1906,1998,director|writer|producer,tt0362070|tt0156128|tt0037209|tt0133188
+nm0066066,Narendra Bedi,1937,1982,director|writer|miscellaneous,tt0455070|tt0155846|tt0075632|tt0071205
+nm0066074,Rajinder Singh Bedi,1915,1984,writer|director|producer,tt0059445|tt0137455|tt0175908|tt0050665
+nm0080173,Master Bhagwan,1913,2002,actor|director|writer,tt0137349|tt1309415|tt0155517|tt0155541
+nm0080345,Basu Bhattacharya,1934,1997,director|producer|writer,tt0156258|tt0061072|tt0156290|tt0079938
+nm0080346,Bijon Bhattacharya,1917,1978,actor|writer|music_department,tt0056537|tt0038475|tt0048410|tt0046304
+nm0080405,Bhimsain,1936,2018,director|producer|writer,tt0156534|tt0150718|tt6998554|tt3295870
+nm0080406,A. Bhimsingh,1924,1978,director|writer|editorial_department,tt0156879|tt0156651|tt0059354|tt0063533
+nm0080432,Sachin Bhowmick,1930,2011,writer|director|miscellaneous,tt0113526|tt0254481|tt0066888|tt0147925
+nm0080445,Bharat Bhushan,1920,1992,actor|writer|producer,tt0137958|tt0157037|tt0130731|tt0368239
+nm0097897,Samaresh Basu,1924,1988,writer|music_department,tt0087868|tt0290448|tt1397496|tt7609134
+nm0097899,Satyen Bose,1916,1993,director|writer|producer,tt0147036|tt0146645|tt0156342|tt0156923
+nm0103932,Emil Braginskiy,1921,1998,writer|actor,tt0055468|tt0314827|tt0060161|tt0076727
+nm0109279,Brij,1933,1990,director|producer|miscellaneous,tt0158331|tt0158375|tt0158314|tt0061206
+nm0111576,Charlotte Brontë,1816,1855,writer,tt0036969|tt1229822|tt0009831|tt3010252
+nm0118406,Pearl S. Buck,1892,1973,writer|actress|producer,tt0189391|tt0059246|tt0047756|tt0028944
+nm0147203,John Cawas,1910,1993,actor|writer|director,tt0032395|tt0451805|tt0242832|tt0390654
+nm0149810,Amiya Chakrabarty,1912,1957,director|writer|producer,tt0044527|tt0157524|tt0146266|tt0130489
+nm0151300,Krishan Chander,1914,1977,writer|music_department,tt0060659|tt0351714|tt0247502|tt0236210
+nm0154158,Saratchandra Chatterjee,1876,1938,writer,tt0259211|tt0152720|tt0238936|tt1327035
+nm0155009,Anton Chekhov,1860,1904,writer|actor|miscellaneous,tt9190728|tt0065128|tt2758880|tt0037325
+nm0159148,B.R. Chopra,1914,2008,producer|director|writer,tt0057120|tt0053985|tt0337578|tt0052154
+nm0159162,Ravi Chopra,1946,2014,director|producer|writer,tt0158534|tt0158451|tt0337578|tt0158694
+nm0159342,R.S. Choudhury,1903,1972,director|writer|production_designer,tt0158626|tt0044318|tt0158705|tt0158823
+nm0161032,Ismat Chughtai,1915,1991,writer|director|producer,tt0052220|tt0042207|tt1058549|tt0073034
+nm0172468,Larry Collins,1929,2005,writer,tt1641395|tt0109768|tt0060814|tt4977530
+nm0179740,Marie Corelli,1855,1924,writer,tt0012317|tt0013800|tt0167452|tt0017419
+nm0186118,Mildred Cram,1889,1985,writer|miscellaneous,tt0050105|tt0031593|tt0017439|tt0022625
+nm0188743,A.J. Cronin,1896,1981,writer,tt0029995|tt0034184|tt0051806|tt0031976
+nm0195991,Madhusudhana Rao D.,1917,2006,producer|writer,tt0266479|tt0261357|tt0269061|tt0234195
+nm0201927,Narayana Rao Dasari,1947,2017,director|writer|actor,tt0251834|tt0280845|tt0262781|tt0262447
+nm0220828,Manmohan Desai,1937,1994,director|producer|writer,tt0213773|tt0082797|tt0089552|tt0213524
+nm0221880,Vijayadan Detha,1926,2013,writer,tt0230622|tt0070009|tt0451850|tt0155606
+nm0234502,Fyodor Dostoevsky,1821,1881,writer|soundtrack,tt9680386|tt1825157|tt2558242|tt3195152
+nm0238898,Daphne Du Maurier,1907,1989,writer,tt0056869|tt2235695|tt0069995|tt0032976
+nm0239270,Satyadev Dubey,1936,2011,writer|actor|director,tt0295599|tt0077783|tt0075747|tt0080322
+nm0244870,Guru Dutt,1925,1964,actor|director|producer,tt0045529|tt0043307|tt0056436|tt0050870
+nm0244884,Utpal Dutt,1929,1993,actor|director|writer,tt0079221|tt0214519|tt0082796|tt0064086
+nm0244898,O.P. Dutta,1921,2012,writer|director,tt0250690|tt0118751|tt0215034|tt0089201
+nm0265752,Latif Faiziyev,1929,1994,director|writer|actor,tt0152509|tt0170416|tt0170644|tt0170456
+nm0269806,Nida Fazli,1938,2016,music_department|writer|soundtrack,tt0364303|tt0466580|tt0266333|tt0242314
+nm0281306,Gustave Flaubert,1821,1880,writer,tt0041615|tt10604724|tt0199735|tt0102368
+nm0304356,Anil Ganguly,1933,2016,director|writer|producer,tt0165972|tt0290179|tt1459912|tt0363583
+nm0307257,Brian Garfield,1939,2018,writer|producer,tt0071402|tt0804461|tt1137450|tt0080889
+nm0315547,Ritwik Ghatak,1925,1976,director|writer|actor,tt0071707|tt0055055|tt0050665|tt0054073
+nm0315916,Rituparno Ghosh,1963,2013,writer|director|music_department,tt0368969|tt1461674|tt1555754|tt0405266
+nm0315926,Subodh Ghosh,1909,1980,writer,tt0157460|tt0049882|tt0091256|tt0053319
+nm0324389,Devendra Goel,1919,1979,director|producer|writer,tt0214653|tt0178202|tt0175564|tt0130649
+nm0324690,Nikolay Gogol,1809,1852,writer,tt6730698|tt0054067|tt0041509|tt9809266
+nm0329716,K.S. Gopalakrishnan,1929,2015,director|writer|producer,tt0215916|tt0214583|tt0214839|tt0351632
+nm0346618,Dulal Guha,1928,2001,director|writer|producer,tt0216110|tt0059023|tt0215714|tt0216171
+nm0348472,Hemen Gupta,1912,1967,director|writer|producer,tt0215890|tt0215515|tt0215457|tt0055039
+nm0362762,Thomas Hardy,1840,1928,writer,tt1192883|tt0080009|tt0061648|tt2935476
+nm0371913,Bhupen Hazarika,1926,2011,music_department|composer|director,tt0230191|tt0230788|tt0230518|tt0235274
+nm0377958,O. Henry,1862,1910,writer,tt0041405|tt0032341|tt0040168|tt0050045
+nm0378773,Geza Herczeg,1888,1954,writer,tt0029146|tt0042920|tt0034175|tt0026007
+nm0403826,Nasir Hussain,1926,2002,writer|director|producer,tt0230348|tt0104561|tt0066888|tt0095936
+nm0403827,Nasir Hussain,1922,1987,actor|director|writer,tt0178177|tt0047990|tt0271397|tt0147811
+nm0403967,M.F. Hussain,1915,2011,writer|director|art_department,tt1756673|tt0232801|tt0221982|tt0366761
+nm0408371,Shafi Inamdar,1945,1996,actor|director|writer,tt0294230|tt0099652|tt0135666|tt0286705
+nm0410870,B.R. Ishara,1934,2012,director|writer|assistant_director,tt0230313|tt0230607|tt0231204|tt0230389
+nm0415838,Ravindra Jain,1944,2015,composer|music_department|soundtrack,tt0152139|tt0165795|tt0268407|tt0374039
+nm0415848,Hasrat Jaipuri,1922,1999,music_department|soundtrack|writer,tt1431045|tt0811138|tt0838221|tt0061046
+nm0416078,Qamar Jalalabadi,1919,2003,music_department|writer|soundtrack,tt0057555|tt0239452|tt0056232|tt0133188
+nm0417714,Jankidas,1910,2003,actor|writer|camera_department,tt0059787|tt0270091|tt0140370|tt0331186
+nm0424102,I.S. Johar,1920,1984,actor|writer|director,tt0077413|tt0231592|tt0154685|tt0056172
+nm0430801,Manohar Shyam Joshi,1933,2006,writer,tt0096922|tt0222012|tt0389586|tt0096827
+nm0430816,Sharad Joshi,1931,1991,writer|actor,tt5864184|tt2753238|tt0101733|tt0287065
+nm0434318,Kader Khan,1937,2018,actor|writer|producer,tt0114615|tt0155175|tt0099081|tt0082797
+nm0436804,Kamleshwar,1932,2007,writer,tt0178186|tt0081401|tt0151511|tt0158534
+nm0437031,S.R. Puttana Kanagal,1933,1985,director|writer,tt0231455|tt0232152|tt0232515|tt0232977
+nm0438029,Raj Kanwar,1961,2012,director|writer|producer,tt0444840|tt0272062|tt0116690|tt0286724
+nm0438904,B.K. Karanjia,1919,2012,writer,tt0095857
+nm0439784,Girish Karnad,1938,2019,actor|writer|director,tt0076089|tt0078030|tt0075747|tt2016894
+nm0440605,D.D. Kashyap,1910,1988,director|writer|producer,tt0139303|tt0232624|tt0232066|tt0231215
+nm0442390,Arun Kaul,1933,2007,director|miscellaneous|writer,tt0091256|tt0068531|tt0097045|tt0246567
+nm0442391,Awtar Krishna Kaul,1939,1974,director|writer|assistant_director,tt0065484|tt0071083
+nm0442395,Mahesh Kaul,1911,1972,director|producer|writer,tt0062897|tt0176074|tt0232759|tt0231817
+nm0451211,Feroz Khan,1939,2009,actor|producer|director,tt0413984|tt0175450|tt0210920|tt0366630
+nm0451846,Raj Khosla,1925,1991,director|writer|producer,tt0073569|tt0231150|tt0055949|tt0151466
+nm0464880,Dada Kondke,1932,1998,director|actor|writer,tt0232264|tt0231771|tt0232783|tt0231140
+nm0471424,Rajendra Krishan,1919,1987,music_department|writer|soundtrack,tt0048410|tt0059354|tt0137349|tt0259494
+nm0471443,Manmohan Krishna,1922,1990,actor|director|writer,tt0052736|tt0150251|tt0239452|tt0374033
+nm0474806,Gulshan Kumar,1951,1997,producer|actor|miscellaneous,tt0101733|tt0439464|tt1156148|tt6836936
+nm0474822,Kishore Kumar,1929,1987,music_department|soundtrack|actor,tt0084385|tt0065416|tt0077451|tt0073707
+nm0474839,Mohan Kumar,1934,2017,writer|producer|director,tt0233202|tt0053566|tt0178192|tt0233182
+nm0474850,Pradeep Kumar,1925,2001,actor|producer|director,tt0057555|tt0242636|tt0060319|tt0129370
+nm0482425,K.B. Lall,1911,1975,director|writer|producer,tt0141534|tt0176101|tt0139416|tt0134701
+nm0492854,Josephine Lawrence,1892,1978,writer,tt0453284|tt0458850|tt0029192|tt6315308
+nm0493923,Kalpana Lajmi,1954,2018,director|writer|producer,tt0233635|tt0273164|tt0454429|tt0108001
+nm0494797,William DeLane Lea,1900,1964,writer|sound_department|miscellaneous,tt0044769|tt0035017|tt0050504
+nm0495270,Nolan Leary,1889,1987,actor|writer|miscellaneous,tt0054195|tt0038129|tt0029192|tt0037378
+nm0517839,A.K. Lohithadas,1955,2009,writer|director|actor,tt0393139|tt0406892|tt0396684|tt0237820
+nm0534848,G.D. Madgulkar,1919,1977,writer|actor|music_department,tt0050322|tt0252079|tt0250448|tt0242310
+nm0534864,D.N. Madhok,1902,1982,director|writer|music_department,tt0134837|tt0037213|tt0129422|tt0214188
+nm0536818,Balu Mahendra,1939,2014,director|cinematographer|writer,tt0235858|tt0235522|tt0187318|tt0235891
+nm0538297,Phani Majumdar,1911,1994,director|writer|assistant_director,tt0235963|tt0236554|tt0236281|tt0236210
+nm0539491,Harmesh Malhotra,1936,2005,director|producer|writer,tt0237021|tt0237437|tt0237564|tt0104404
+nm0539599,Verma Malik,1925,2009,music_department|soundtrack|writer,tt0246848|tt0149814|tt3322420|tt0338013
+nm0544153,Saadat Hassan Manto,1912,1955,writer|actor|music_department,tt0331297|tt0308883|tt0137958|tt0237033
+nm0557688,John Masters,1914,1983,writer,tt0049007|tt0925316|tt0094979
+nm0560943,Guy de Maupassant,1850,1893,writer,tt0060675|tt0953485|tt0019589|tt0154295
+nm0564970,Leo McCarey,1896,1969,director|writer|producer,tt0036872|tt0028597|tt0050105|tt0031593
+nm0576454,Mehmood,1932,2004,actor|music_department|director,tt0071730|tt0109117|tt0068305|tt0327648
+nm0576488,Prakash Mehra,1939,2009,director|music_department|producer,tt0239452|tt0239654|tt0105897|tt0082644
+nm0576543,Ashok Mehta,1947,2012,cinematographer|camera_department|director,tt0081968|tt0346723|tt0119239|tt0301240
+nm0592599,Wajahat Mirza,1908,1990,writer|director,tt0054910|tt0053999|tt0232925|tt0052411
+nm0592985,Babubhai Mistry,1918,2010,special_effects|director|art_director,tt0242840|tt0242504|tt0242576|tt0242832
+nm0593946,Bimal Mitra,1912,1991,writer,tt0234852|tt5420170|tt0215215|tt0056436
+nm0593954,Narendranath Mitra,1916,1975,writer,tt0124055|tt0057277|tt0149875|tt6020170
+nm0593958,Premendra Mitra,1904,1988,writer|director|music_department,tt0243537|tt0243147|tt0243515|tt0243296
+nm0593963,Sombhu Mitra,1915,1997,actor|director|writer,tt0243557|tt0215457|tt0047215|tt0049378
+nm0609359,Motilal,1910,1965,actor|director|writer,tt0252318|tt0047990|tt0158908|tt0231764
+nm0611473,Partho Mukerjee,1947,2017,actor|writer|assistant_director,tt0361508|tt0087958|tt0087868|tt0072972
+nm0611514,Ashutosh Mukherjee,1920,1989,writer,tt4809690|tt0321968|tt0148692|tt0232563
+nm0611515,Balaichand Mukherjee,1899,1979,writer|music_department,tt0049176|tt0149708|tt2902584|tt0216285
+nm0611527,Gyan Mukherjee,1909,1956,director|writer|producer,tt0244182|tt0033772|tt9477376|tt0139608
+nm0611531,Hrishikesh Mukherjee,1922,2006,director|editor|writer,tt0066763|tt0137362|tt0137361|tt0147855
+nm0611557,Sailajanand Mukherji,1901,1976,director|writer,tt0244433|tt0244671|tt0244772|tt0244774
+nm0611582,Subodh Mukherji,1921,2005,producer|director|writer,tt0050829|tt0244977|tt0055035|tt0178218
+nm0611971,Venkata Ramana Mullapoodi,1931,2011,writer|producer,tt0155567|tt0155855|tt0155953|tt0156001
+nm0612730,Jag Mundhra,1948,2011,director|writer|editor,tt0110118|tt0119357|tt0095400|tt0280465
+nm0620787,J.K. Nanda,1904,1983,director|writer|actor,tt0137958|tt0246453|tt0246845|tt0134615
+nm0621210,S.D. Narang,1918,1986,director|producer|actor,tt0247296|tt0247291|tt0246923|tt0247680
+nm0621255,R.K. Narayan,1906,2001,writer,tt0059246|tt0120886|tt0244911|tt3424588
+nm0624248,Neeraj,1925,2018,music_department|soundtrack|actor,tt0066241|tt0147973|tt0232288|tt0338013
+nm0645350,S.K. Ojha,1921,1980,director|writer|producer,tt0176272|tt0177482|tt0133014|tt0248218
+nm0654891,Adinarayana Rao P.,1915,1990,composer|producer|writer,tt0207000|tt0261034|tt0257209|tt0213450
+nm0655802,P. Padmarajan,1945,1991,writer|director|art_director,tt0249188|tt0248673|tt0249069|tt0248934
+nm0665982,Ganesh Patro,1945,2015,writer|script_department|soundtrack,tt7860344|tt8676838|tt0255425|tt0155124
+nm0694884,Prabhakar Reddy,1935,1997,actor|writer|producer,tt0265799|tt0263778|tt0262542|tt10580094
+nm0694959,Pradeep,1915,1998,music_department|soundtrack|writer,tt0389485|tt0157385|tt0157900|tt1727797
+nm0695162,J. Om Prakash,1927,2019,director|producer|miscellaneous,tt0778604|tt0247915|tt0130731|tt0178204
+nm0695170,Om Prakash,1919,1998,actor|director|producer,tt0084385|tt0176075|tt0057332|tt0214653
+nm0695264,L.V. Prasad,1908,1994,director|producer|actor,tt0148353|tt0050956|tt0255267|tt0246462
+nm0695581,Kolli Pratyagatma,1925,2001,director|writer|producer,tt0213973|tt0213515|tt0214037|tt0213475
+nm0695609,Ruth Prawer Jhabvala,1927,2013,writer|soundtrack,tt0091867|tt0084058|tt0104454|tt0107943
+nm0695919,Munshi Premchand,1880,1936,writer,tt0156780|tt0076696|tt0274825|tt0060444
+nm0706478,Samudrala Raghavacharya,1902,1968,writer|music_department|director,tt0259392|tt0257260|tt0256631|tt0256647
+nm0706480,Vedantam Raghavaiah,1919,1971,director|miscellaneous|actor,tt0257203|tt0257209|tt0395928|tt0256719
+nm0707303,Rajababu,1937,1983,actor|writer,tt0260224|tt0262913|tt0262444|tt0067607
+nm0707310,Gautam Rajadhyaksha,1950,2011,camera_department|writer|miscellaneous,tt0172170|tt0248126|tt0133024|tt0172684
+nm0707410,Shaktipada Rajguru,1922,2014,writer,tt0080376|tt0054073|tt0268117|tt0215520
+nm0707705,O.P. Ralhan,1928,1999,actor|writer|director,tt0139525|tt0065064|tt0076515|tt0215859
+nm0708913,Shyam Ramsay,1952,2019,director|editor|writer,tt0259877|tt3592020|tt0260494|tt0260098
+nm0710043,Bharat Rangachary,1953,1995,director|assistant_director|miscellaneous,tt0390667|tt0117878|tt0135666|tt0290331
+nm0711754,Kantilal Rathod,1925,1988,director|writer|producer,tt0266885|tt0266832|tt0266681|tt0267135
+nm0712540,Harnam Singh Rawail,1921,2004,director|writer|producer,tt0266757|tt0139607|tt0266765|tt0266712
+nm0713592,Rahi Masoom Reza,1927,1992,writer|music_department|miscellaneous,tt0102258|tt0073569|tt0151466|tt0090138
+nm0713593,S. Ali Raza,1922,2007,writer,tt0148706|tt0358063|tt0044318|tt0067668
+nm0714762,Kadiri Venkata Reddy,1912,1972,director|writer|producer,tt0265799|tt0266962|tt0249795|tt0043908
+nm0740274,Pamela Rooks,1958,2010,director|writer|producer,tt0170704|tt0373779|tt0104884
+nm0746950,Bimal Roy,1909,1966,director|cinematographer|producer,tt0053319|tt0045693|tt0050665|tt0056850
+nm0747606,Nikolai Rozhkov,1906,1998,writer,tt0049828|tt0039833|tt4601014|tt0170416
+nm0752922,Eldar Ryazanov,1927,2015,director|writer|actor,tt0076727|tt0084873|tt0102516|tt0240033
+nm0755500,M. Sadiq,1910,1971,director|writer|producer,tt0144603|tt0134763|tt0139048|tt0053706
+nm0755997,Ramanand Sagar,1917,2005,producer|writer|director,tt0268416|tt0058921|tt0147811|tt0268216
+nm0756379,Balraj Sahni,1913,1973,actor|writer|director,tt0055039|tt0043307|tt0234827|tt0233326
+nm0756393,Kishore Sahu,1915,1980,actor|director|writer,tt0049412|tt0053767|tt0268349|tt0140370
+nm0756488,Ramesh Saigal,1918,1980,director|writer|producer,tt0048537|tt0268533|tt0065903|tt0055444
+nm0759662,Shakti Samanta,1926,2009,director|producer|writer,tt0065416|tt0246420|tt0066758|tt0068217
+nm0764314,P.L. Santoshi,1916,1978,director|writer|music_department,tt0053637|tt0268937|tt0269438|tt0134850
+nm0765167,Zia Sarhadi,1914,1997,director|writer|music_department,tt0273407|tt0231156|tt0132166|tt0385852
+nm0781830,Mohan Segal,1921,2005,director|producer|actor,tt0341563|tt0049549|tt0359544|tt2113694
+nm0784016,Mala Sen,1947,2011,writer,tt0109206
+nm0784019,Mrinal Sen,1923,2018,director|writer|producer,tt0085785|tt0064086|tt0071317|tt0070498
+nm0787429,Chandulal Shah,1898,1975,director|writer|producer,tt0046155|tt0139003|tt0259557|tt0272845
+nm0787452,Krishna Shah,1938,2013,writer|director|producer,tt0078241|tt0214591|tt0296274|tt0088706
+nm0787453,Kundan Shah,1947,2017,director|writer|producer,tt0085743|tt0110222|tt0328998|tt0249588
+nm0787589,Shailendra,1923,1966,music_department|soundtrack|actor,tt0052411|tt1454468|tt1431045|tt0052560
+nm0788158,K. Shankar,1926,2006,editor|director|writer,tt0314557|tt0316521|tt0317056|tt1435454
+nm0788391,Shantaram Rajaram Vankudre,1901,1990,director|producer|actor,tt0331417|tt0145856|tt0036343|tt0050322
+nm0788710,Dewan Sharar,1899,1969,writer|actor,tt0158843|tt0036343|tt0145856|tt2153494
+nm0788880,Kidar Nath Sharma,1910,1999,director|writer|actor,tt0039654|tt0042233|tt0141441|tt0374154
+nm0792281,Sherif,1940,2015,writer,tt0266501|tt0332040|tt0282845|tt0269384
+nm0802153,Khushwant Singh,1915,2014,actor|writer,tt0325294|tt0170704|tt6415198|tt0405989
+nm0802377,Tapan Sinha,1924,2009,director|writer|composer,tt0322877|tt0049393|tt0123370|tt0345177
+nm0807077,Mariya Smirnova,1905,1993,writer,tt0265059|tt0314530|tt0129338|tt0039810
+nm0814343,Bhappi Sonie,1928,2001,director|producer|writer,tt0381079|tt0070241|tt0053791|tt0317751
+nm0819983,Johanna Spyri,1827,1901,writer,tt0049296|tt0047431|tt0149924|tt0028988
+nm0820232,C.V. Sridhar,1933,2008,director|writer|producer,tt0139157|tt0320119|tt0176075|tt0055220
+nm0834529,August Strindberg,1849,1912,writer|soundtrack,tt5203176|tt0043567|tt0019441|tt0010612
+nm0836899,Adurthi Subba Rao,1912,1975,director|writer|producer,tt0357811|tt0064244|tt0261357|tt0061974
+nm0837675,Sujatha,1935,2008,writer|producer,tt0320736|tt0376127|tt0479751|tt1305797
+nm0849195,Lekh Tandon,1929,2017,director|actor|writer,tt0367110|tt0150417|tt0405508|tt0340091
+nm0854919,Vijay Tendulkar,1928,2008,writer|actor,tt0085178|tt0296702|tt0080322|tt0192566
+nm0856897,Dinesh Thakur,1947,2012,actor|writer,tt0248012|tt0214832|tt0451614|tt0077609
+nm0856902,Ramchandra Thakur,1908,1992,director|writer,tt0213687|tt0370799|tt0387376|tt2158747
+nm0858235,A.C. Trilogchander,1930,2016,director|writer,tt0425531|tt0469826|tt1437598|tt0457781
+nm0873035,S.N. Tripathi,1913,1988,composer|actor|director,tt0246313|tt0368196|tt0824355|tt2112252
+nm0894340,Deven Verma,1937,2014,actor|producer|director,tt0246493|tt0158375|tt0215517|tt0320124
+nm0903423,Neeraj Vora,1963,2017,actor|writer|director,tt0242519|tt0995031|tt0495034|tt0255305
+nm0905562,J.B.H. Wadia,1901,1986,writer|director|producer,tt0358194|tt0139443|tt0398671|tt0372038
+nm0905571,Hansa Wadkar,1924,1971,actress|writer,tt0149751|tt0031714|tt0158915|tt0374040
+nm0947899,Valentin Ezhov,1921,2004,writer,tt0101283|tt0052600|tt0066565|tt0095114
+nm1022183,Ved Prakash Sharma,1955,2017,writer,tt0196635|tt0114317|tt0391741
+nm1031494,Arabinda Mukhopadhyay,1919,2016,director|writer|assistant_director,tt2902584|tt0243855|tt0066758|tt1587224
+nm1032084,Amrita Pritam,1919,2005,writer|music_department|soundtrack,tt0363729|tt1620501|tt0347779
+nm1054473,Manish Acharya,1967,2010,actor|cinematographer|producer,tt0362771|tt1012757|tt8885192|tt1172203
+nm1055782,Naqsh Lyallpuri,1928,2017,music_department|soundtrack|writer,tt1512844|tt0230527|tt0293081|tt0384915
+nm1072561,Anant Balani,1962,2003,director|writer|producer,tt0382188|tt0385793|tt0102645|tt0348190
+nm1126884,Shomu Mukherjee,1943,2008,writer|producer|director,tt0257475|tt0187395|tt0111067|tt0359266
+nm1135640,Dilip Chitre,1938,2009,writer|music_department|director,tt0153545|tt0309632|tt0085178
+nm1163220,Sushmita Banerjee,1964,2013,writer,tt0312664
+nm1168263,Nirmal Verma,1929,2005,writer,tt1252475|tt0068929
+nm1194313,Mahasweta Devi,1926,2016,writer,tt0063540|tt0178562|tt0108001|tt0832902
+nm1197951,M. Bhaskar,1935,2013,director|assistant_director|writer,tt10687386|tt0176075|tt0154821|tt0323553
+nm1213496,Gauri Prasanna Mazumder,1924,1986,music_department|writer,tt0177497|tt0152700|tt0053104|tt0233937
+nm1238805,Narayan Sanyal,1924,2005,writer,tt0244776|tt0989846|tt0989793|tt0367900
+nm1253550,U.R. Ananthamurthy,1932,2014,writer,tt0310714|tt0066324|tt0076080|tt0246567
+nm1260317,Bankimchandra Chatterjee,1838,1894,writer|music_department,tt0214652|tt0155083|tt0154234|tt0155089
+nm1275836,Nihar Ranjan Gupta,1911,1986,writer|director,tt8728966|tt0056232|tt0149774|tt0060659
+nm1277085,Manoj Punj,1970,2006,director|writer,tt1620971|tt0449221|tt0308875|tt0892113
+nm1330914,Fatima Meer,1928,2010,writer,tt0200441|tt1149583|tt0328503|tt0116980
+nm1347553,Vietnam Veetu Sundaram,1943,2016,writer|director|actor,tt3415156|tt1440179|tt1445071|tt0369447
+nm1381505,Moti Sagar,1927,1999,actor|writer|producer,tt0268216|tt0339998|tt0368194|tt0268416
+nm1389106,Ashapurna Devi,1909,1995,writer,tt0429768|tt0156861|tt0046686|tt0061467
+nm1408315,Rajendra Yadav,1929,2013,writer,tt0064935
+nm1479356,Mirza Ghalib,1797,1869,soundtrack|music_department|writer,tt0411469|tt0137958|tt1623662|tt0216000
+nm1559999,Vaali,1931,2013,music_department|soundtrack|actor,tt0479651|tt0097416|tt0449951|tt3741834
+nm1680373,Bimal Kar,1921,2003,writer,tt0157540|tt0465904|tt0237022|tt0314217
+nm1773192,Honey Chhaya,1930,2016,actor|director|writer,tt1620719|tt0412308|tt0115019|tt1412386
+nm2055188,Aspi Irani,1911,1986,director|producer|writer,tt0129370|tt0155161|tt0154189|tt0068620
+nm2952841,Susumu Takaku,1933,2009,writer|miscellaneous,tt0072511|tt0185056|tt0167320|tt0111919
+nm3099726,Qateel Shifai,1919,2001,music_department|soundtrack|writer,tt0113933|tt0118660|tt0374897|tt0154749
+nm3435209,Anupam Mishra,1948,2016,director|writer|assistant_director,tt1886663|tt1424645|tt1618430
+nm3794006,Poovannan,1932,2013,writer,tt0254354
+nm3840083,Kartar Singh Duggal,1917,2012,writer,tt0823451
+nm5556806,Asit Sen,1922,2001,director|writer|assistant_director,tt0398193|tt0148692|tt0321968|tt1524567
+nm6598238,Abis Rizvi,1967,2017,producer|writer,tt5963908|tt3796006|tt6694980
